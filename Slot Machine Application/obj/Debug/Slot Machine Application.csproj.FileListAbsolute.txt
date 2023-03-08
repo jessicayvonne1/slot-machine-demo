@@ -1,0 +1,10 @@
+C:\Users\wilso\OneDrive\Desktop\C#2\Slot Machine Application\obj\Debug\Slot Machine Application.csproj.AssemblyReference.cache
+C:\Users\wilso\OneDrive\Desktop\C#2\Slot Machine Application\obj\Debug\Slot_Machine_Application.Form1.resources
+C:\Users\wilso\OneDrive\Desktop\C#2\Slot Machine Application\obj\Debug\Slot_Machine_Application.Properties.Resources.resources
+C:\Users\wilso\OneDrive\Desktop\C#2\Slot Machine Application\obj\Debug\Slot Machine Application.csproj.GenerateResource.cache
+C:\Users\wilso\OneDrive\Desktop\C#2\Slot Machine Application\obj\Debug\Slot Machine Application.csproj.CoreCompileInputs.cache
+C:\Users\wilso\OneDrive\Desktop\C#2\Slot Machine Application\bin\Debug\Slot Machine Application.exe.config
+C:\Users\wilso\OneDrive\Desktop\C#2\Slot Machine Application\bin\Debug\Slot Machine Application.exe
+C:\Users\wilso\OneDrive\Desktop\C#2\Slot Machine Application\bin\Debug\Slot Machine Application.pdb
+C:\Users\wilso\OneDrive\Desktop\C#2\Slot Machine Application\obj\Debug\Slot Machine Application.exe
+C:\Users\wilso\OneDrive\Desktop\C#2\Slot Machine Application\obj\Debug\Slot Machine Application.pdb
